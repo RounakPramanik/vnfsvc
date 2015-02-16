@@ -1,0 +1,12 @@
+{
+  "nsd": {
+    "webservice": "/home/tcs/sample_templates/nsd_template.yaml",
+    "ims": "/var/lib/vnfsvc/service_templates/nsd_ims.yaml"
+  },
+  "vnfd": {
+    "firewall": "/var/lib/vnfsvc/service_templates/vnfd_vFW.yaml",
+    "webserver": "/home/tcs/sample_templates/vnfd_vAS.yaml",
+    "loadbalancer": "/home/tcs/sample_templates/vnfd_vLB.yaml",
+    "Ims": "/var/lib/vnfsvc/service_templates/vnfd_vIms.yaml"
+  }
+}
